@@ -143,6 +143,3 @@ We have the following PR labels:
 ---
 
 We look forward to your contributions! 🎉
-```
-
-Feel free to replace the project name and GitHub links with your actual project details. This `README.md` file provides a structured overview, getting started guide, contribution guidelines, and information on how to add your name to the contributor list, all tailored for your summarized paper project.
